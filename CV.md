@@ -1,7 +1,7 @@
 [RS-School-CV](https://github.com/AlexLagson/rsschool-cv/)
 ___
 # **Lahutsin Aliaksei**
-![My photo](Images/IMG_6941.JPG)
+
 ___
 ## **Junior front-end developer**
 ___
