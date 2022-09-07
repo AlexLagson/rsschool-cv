@@ -51,8 +51,7 @@ function isPrime(num) {
 * [Intensive English course Nov 2021-Dec 2021](https://clubclass.com/)
 ___
 ## **Languages**
-* English (B2-C1)
-   according to Clubclass test 
+* English (B2-C1) according to Clubclass test 
 * Russian (Native)   
 ___
 
