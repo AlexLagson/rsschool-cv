@@ -6,6 +6,7 @@ ___
 ## **Junior front-end developer**
 ___
   ## **Contact information**
+  #### *Discord:* @AlexLagson
   #### *email:* alexlagwick12@gmail.com
   #### *phone:* +35699942202
   #### *telegram:* @lagwick
@@ -20,6 +21,7 @@ ___
 ## **Proficient skills**
 * HTML5, CSS3
 * JavaScript Basics
+* React
 * Git, GitHub
 * VS Code
 * Figma
