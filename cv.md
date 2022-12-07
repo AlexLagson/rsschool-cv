@@ -15,7 +15,7 @@ ___
   ## **Briefly About Myself:**
   #### I've graduated Higher State academy of Telecommunications with a bachelor degree in engineering. After that I worked as a information security specialist, customer support specialist and product manager associate. 
   
-  #### Since spring 2022 I am interested in front-end developing. Since that time I believe a can change my life to better by gaining new knowledges and improving my skills
+  #### Since spring 2022 I am interested in front-end developing. Since that time I believe a can change my life to better by gaining new knowledges and improving my skills. Actually this is my second time trying to handle Rs-School, and this time I'll try to do my best.
 ___
 ## **Proficient skills**
 * HTML5, CSS3
