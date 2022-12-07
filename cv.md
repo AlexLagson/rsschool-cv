@@ -49,6 +49,7 @@ function isPrime(num) {
 * [Skillfactory Frontend-developer spring 2022-...](https://skillfactory.ru/frontend-razrabotchik)
 * [RS School Front end (stage 1) fall 2022-...](https://rs.school/)
 * [Intensive English course Nov 2021-Dec 2021](https://clubclass.com/)
+* [RS School Front end (stage 0) winter 2022-...](https://rs.school/)
 ___
 ## **Languages**
 * English (B2-C1) according to Clubclass test 
