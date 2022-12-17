@@ -6,8 +6,7 @@ ___
 ## **Junior front-end developer**
 ___
   ## **Contact information**
-  #### *discord* @AlexLagson
-  #### *Git* @AlexLagson
+
   #### *email:* alexlagwick12@gmail.com
   #### *phone:* +35699942202
   #### *telegram:* @lagwick
@@ -17,11 +16,12 @@ ___
   ## **Briefly About Myself:**
   #### I've graduated Higher State academy of Telecommunications with a bachelor degree in engineering. After that I worked as a information security specialist, customer support specialist and product manager associate. 
   
-  #### Since spring 2022 I am interested in front-end developing. Since that time I believe a can change my life to better by gaining new knowledges and improving my skills
+  #### Since spring 2022 I am interested in front-end developing. Since that time I believe a can change my life to better by gaining new knowledges and improving my skills. Actually this is my second time trying to handle Rs-School, and this time I'll try to do my best.
 ___
 ## **Proficient skills**
 * HTML5, CSS3
 * JavaScript Basics
+* React
 * Git, GitHub
 * React
 * Node Js
@@ -54,6 +54,7 @@ function isPrime(num) {
 * [Skillfactory Frontend-developer spring 2022-...](https://skillfactory.ru/frontend-razrabotchik)
 * [RS School Front end (stage 1) fall 2022-...](https://rs.school/)
 * [Intensive English course Nov 2021-Dec 2021](https://clubclass.com/)
+* [RS School Front end (stage 0) winter 2022-...](https://rs.school/)
 ___
 ## **Languages**
 * English (B2-C1) according to Clubclass test 
