@@ -195,6 +195,12 @@
     flex-direction: column;
     margin-top: 20px;
 }
+
+.react-icon {
+    width: 48px;
+    height: 48px;
+}
+
 .social-media__item {
     padding-top: 15px;
     display: flex;
@@ -335,4 +341,9 @@ color: #FFFFFF;
     justify-content: space-around;
     margin-top: 55px;
     background: none;
+}
+
+.rs-logo {
+    width: 100px;
+    height: 100px;
 }
