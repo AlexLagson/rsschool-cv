@@ -1,0 +1,338 @@
+@font-face {
+	font-family: Inter;
+	src: url('fonts/InterTight-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #1E1E1E;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    margin-top: 20px;
+    width: 675px;
+    background: rgb(32,32,32);
+    background: linear-gradient(90deg, rgba(32,32,32,1) 0%, rgba(80,150,241,1) 100%);
+    height: 210px;
+    display: flex;
+    align-items: center;
+}
+.photo-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 190px;
+    height: 190px;
+    border: 2px solid rgba(80, 150, 241, 0.5);
+    box-shadow: inset 5px 5px 15px rgba(80, 150, 241, 0.1);
+    filter: drop-shadow(0px 15px 25px rgba(80, 150, 241, 0.1));
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
+.avatar {
+    width: 182px;
+    height: 182px;
+    border-radius: 50%; 
+}
+
+.name {
+    width: 300px;
+    height: 50px;
+    background: none;
+    position: relative;
+    top: -70px; 
+    left: 45px;
+    
+}
+
+.name-title {
+    display: block;
+    width: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    z-index: 1;
+}
+
+.name-undertitle {
+    display: block;
+    width: 300px;
+    position: absolute;
+    top:2px;
+    left: 2px;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #202020;
+    z-index: 0;
+}
+
+.subtitle {
+    width: 345px;
+    margin-left: -30px;
+    background: none;
+    display: block;
+    margin-top: 75px;
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 300; 
+    font-size: 30px; 
+    line-height: 24px; 
+    text-align: center;
+    color: #FFFFFF;
+}
+.columns   {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.left-column {
+    display: flex;
+    flex-direction: column;
+    width: 325px;
+    height: 900px;
+    background: #202020;
+    border-right: 2px solid #5096F1;
+    box-shadow: 20px 40px 40px rgba(80, 150, 241, 0.5);
+}
+
+.about-wrapper {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-top: 20px;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    color: #5096F1;
+}
+
+.underline {
+    justify-content: center;
+    width: 190px;
+    height: 0;
+    border-bottom: 2px solid #5096F1;
+    margin-top: 5px;
+}
+
+.text {
+    margin-top: 10px;
+    display: block;
+    width: 270px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: none;
+    line-height: 160%;
+}
+
+.list-item {
+    padding-top: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 160%;
+}
+
+.education-list {
+    display: block;
+    
+    margin-left:20px;
+}
+
+.list-item a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.list-item:hover {
+    color: #5096F1;
+    text-decoration:underline;
+}
+
+.list-item a:hover {
+    color: #5096F1;
+}
+.contacts {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.social-media {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.social-media__item {
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    width: 222px;
+    justify-content: left;
+    align-items: center;
+}
+.social-media__text {
+    font-family: 'Inter';
+    color: #FFFFFF;
+    display: block;
+    margin-left: 20px;
+}
+
+.git {
+    margin-left: -5px;
+}
+.right-column {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 900px;
+    background: #202020;
+    border-right: 2px solid #5096F1;
+    box-shadow: 20px 40px 40px rgba(80, 150, 241, 0.5);
+}
+
+.code-example {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.code {
+    margin-top: 20px;
+    color: #5096F1;
+    line-height: 160%;
+}
+
+.completed-tasks,
+.technologies {
+    width: 325px;
+}
+
+.technologies-section {
+    margin-top: 20px;
+    height: 110px;
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.technologies-section__item {
+    display: flex;
+    justify-content: center;
+}
+
+.technologies-title {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    color: #5096F1;
+}
+
+.technologies-underline {
+    margin-left: 22%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content {
+    border-right: 2px solid #5096F1;
+    width: 675px;
+    background: rgb(32,32,32);
+    background: linear-gradient(90deg,rgba(80,150,241,1) 0%,  rgba(32,32,32,1) 100%);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.rs-scopes,
+.rs-logo {
+   background: none;
+}
+
+.year {
+    background: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.link   {
+    background: none;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    background: none;
+    list-style: none;
+}
+
+.nav-bar__item {
+    margin-left: 15px;
+    background: none;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 160%;
+}
+
+.nav {
+    max-width: 275px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 55px;
+    background: none;
+}
